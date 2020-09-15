@@ -36,7 +36,7 @@ cat << EOF > /etc/config.json
                 "servers": [
                     {
                         "address": "127.0.0.1",
-                        "port": 9050
+                        "port": 9055
                     }
                 ]
             }
